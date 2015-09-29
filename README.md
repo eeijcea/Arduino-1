@@ -1,3 +1,7 @@
+This is a simple fork from original project from:
+ Ivan Grokhotkov (igrr)
+ 
+
 Arduino core for ESP8266 WiFi chip
 ===========================================
 
